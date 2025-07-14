@@ -1,0 +1,101 @@
+total_bill,sex,smoker,day,time,size,tip
+37.83,male,maybe,Thur,,1.0,
+19.1, Female ,YES,Sat, Dinner ,,2.57
+15.19,Male,Yes,sun,Lunch,6.0,2.31
+49.42,Female,yes,Fri,Dinner,2.0,
+43.25,male,Yes,Fri,lunch,1.0,
+31.53, Female ,no, Fri ,Dinner,6.0,
+12.92,Female,NO,Thur,,3.0,3.01
+48.42,Male,No, Fri ,DINNER,1.0,9.97
+42.73,,no,Sun,lunch,1.0,4.29
+48.62,Male,No,Sat,Dinner,4.0,
+35.66,Male, yes ,,LUNCH,,
+47.19,other,no,Fri,Dinner,1.0,8.98
+27.92,male,Yes,Thur,Dinner,,4.92
+27.47,, No ,Thur,Lunch,4.0,
+46.68,other,no,Sat,Lunch,6.0,3.17
+20.37,MALE,, Thur ,dinner,2.0,2.01
+45.68,Female, NO , thur ,Dinner,5.0,5.9
+31.58,other,NO,SAT,Dinner,5.0,4.08
+11.28,other,yes,,LUNCH,4.0,2.65
+17.8,MALE, Yes ,Sat,Dinner,,
+34.62,Male, Yes ,Thur,Dinner,2.0,4.95
+47.96,Female, Yes , FRI , Lunch ,,8.49
+48.22,Male,No,,LUNCH,,9.1
+20.84,Male, No ,SAT, Dinner ,3.0,4.54
+43.51,Male,No, Fri ,,4.0,5.25
+24.09,Male,No,SUN,Dinner,1.0,3.02
+48.37,other,Yes,Sun,,6.0,
+18.37,Male,No, fri , DINNER ,3.0,1.81
+49.96, Female ,Yes, Fri ,lunch,,9.32
+39.85,MALE,No,fri,Lunch,4.0,5.82
+43.76, Female ,NO,SUN,Lunch,1.0,10.05
+20.8,other,NO, Sun ,LUNCH,6.0,2.06
+9.95,Female,no,Sat,dinner,6.0,2.36
+11.06,other,no,, Dinner ,6.0,
+8.96,Male,yes,Thur,Dinner,2.0,1.26
+20.03,Male,No, Sat , Lunch ,3.0,3.87
+46.43,MALE,maybe,Sat,Dinner,4.0,4.3
+25.68,Female,, FRI ,,3.0,
+38.67,Male,NO, Thur , Dinner ,,6.8
+17.48, FEMALE ,Yes,Sun,Lunch,,2.93
+39.02, Male ,No,thur,Dinner,6.0,
+10.69,,no, thur ,DINNER,5.0,1.54
+37.67,male,No,Sat, Dinner ,2.0,7.34
+46.35, female ,YES,Sun,Dinner,,8.94
+17.55,,No,Thur,Lunch,6.0,2.52
+8.16,other,No,THUR,Dinner,,0.83
+5.5,male,no,sat,lunch,6.0,0.5
+10.09,other,No, fri ,Lunch,1.0,2.04
+46.8,,No, thur ,Dinner,2.0,8.8
+44.43,female, Yes ,SAT,,2.0,9.04
+17.85,Male,Yes,Sun,Dinner,6.0,2.53
+15.74,female,No,Thur,Dinner,3.0,1.42
+43.61,male,,Sat,DINNER,5.0,4.22
+49.02,Male,,sat,,3.0,5.67
+42.76,other,yes,sat,Dinner,6.0,
+37.49, male ,no,thur,lunch,6.0,1.89
+37.71,male,YES,sun, Dinner ,1.0,6.79
+15.8,Female,No,sun,Lunch,4.0,3.76
+5.51,other,No,Sun,Dinner,3.0,0.72
+11.74,Female, Yes ,Sun,DINNER,2.0,2.03
+36.21,Female,YES,FRI,Lunch,2.0,8.37
+22.33,male,No,FRI,,2.0,2.41
+19.13,Female,,Sat,Lunch,4.0,1.13
+42.28,Female, NO ,THUR, Dinner ,6.0,10.31
+28.41, Female ,, fri ,dinner,5.0,5.11
+46.24,male, Yes ,,,5.0,10.29
+32.0,female,No,Thur,Lunch,,2.26
+25.19,Female, no ,Fri,DINNER,3.0,5.85
+45.11,,Yes,FRI, Lunch ,1.0,4.56
+9.69,Female,Yes,Sun, DINNER ,4.0,1.67
+46.17, Female ,YES,,DINNER,5.0,5.72
+19.77, Female ,,sat,dinner,6.0,3.44
+19.76,MALE, Yes , Sun , Dinner ,5.0,3.85
+41.69,Male,No,Thur,Lunch,6.0,9.89
+23.11,Female,yes, Thur ,Dinner,3.0,4.14
+20.82,Male,No,thur, Dinner ,6.0,2.66
+39.18,Female,Yes,,Dinner,4.0,7.31
+19.9,Male,Yes,Sat,Lunch,2.0,
+23.67,Male,Yes, Sun ,DINNER,3.0,1.65
+41.92,other,No,thur,LUNCH,3.0,6.41
+40.41,female,No, sat ,,2.0,9.39
+7.42,,No,Thur,Lunch,4.0,0.98
+40.41,,No,Sun,Dinner,6.0,8.23
+6.15,,no, SAT ,Lunch,3.0,0.67
+33.17,Female,maybe,Sun,LUNCH,,2.15
+33.95,Female,Yes,THUR,Dinner,,6.87
+33.59,Female,Yes, Fri , Dinner ,2.0,7.49
+15.46, Female ,,, Lunch ,4.0,3.54
+11.1, Male ,No,Fri,Dinner,4.0,1.73
+33.97,,No,Sun, DINNER ,3.0,7.23
+13.76,female,no,Thur,Dinner,5.0,0.8
+22.21,male,no,Sat,lunch,3.0,4.34
+10.7,Female, NO ,Thur, LUNCH ,2.0,
+14.03,Female,maybe,Thur,Dinner,3.0,2.3
+30.6,,, Thur ,lunch,3.0,3.37
+26.68,Female,Yes,Fri,Lunch,4.0,2.62
+48.8, MALE ,No,Sun,Dinner,6.0,11.19
+19.67, Male ,No,Thur, DINNER ,4.0,1.83
+37.55,Male,No,Fri,lunch,2.0,4.81
+21.23,FEMALE,No,Sat,Dinner,,3.97
